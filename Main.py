@@ -1,7 +1,6 @@
 import os
 import sys
 import socket as sk
-from colorama import Style,Fore,Back
 
 
 class HaxRus():
